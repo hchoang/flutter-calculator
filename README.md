@@ -1,6 +1,6 @@
-# calculator
+# Calculator
 
-A new Flutter application.
+A demo Flutter application.
 
 ## Getting Started
 
